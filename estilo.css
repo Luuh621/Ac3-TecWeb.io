@@ -1,0 +1,26 @@
+.headerTypeOne {
+    background: rgb(16, 16, 121);
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    font-size: 30px;
+    position: relative;
+    width: 100%
+}
+
+.linkPad {
+    font-size: 15px;
+    position: relative;
+    right: 28%;
+    align-self: auto;
+}
+
+.inner {
+    left: 90%;
+    position: absolute;
+    align-self: auto;
+}
+
+.paraPadUm {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
